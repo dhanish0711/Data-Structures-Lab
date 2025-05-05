@@ -1,6 +1,5 @@
 /* 
-Write a menu-driven program that implements a singly linked list
-for the following operations:
+Write a menu-driven program that implements a singly linked list for the following operations:
 Insert
 Delete
 Reverse
