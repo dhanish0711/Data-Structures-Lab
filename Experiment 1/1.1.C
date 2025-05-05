@@ -1,3 +1,5 @@
+// Write a program to search a key element with in the given array of elements using linear search process.
+
 #include<stdio.h>
 void main() {
 	int a[20], i, n, key, flag = 0, pos;
